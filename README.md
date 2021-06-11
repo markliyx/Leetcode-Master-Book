@@ -23,9 +23,9 @@ Out of all the topics listed above, I am least familiar wiht Garph, Trees, Slidi
 "Cracking the Coding Interview".
 
 As day 1: my average time for solving a //
-easy question is: 30 mins //
+easy question is: 18 mins //
 medium question is: n/a //
 hard question is: //
 
-I have completed 1 easy quetsion, 0 medium question, and 0 hard question. 
+I have completed 2 easy quetsion, 0 medium question, and 0 hard question. 
 
