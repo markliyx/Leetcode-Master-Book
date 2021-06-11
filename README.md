@@ -27,5 +27,5 @@ easy question is: 18 mins //
 medium question is: n/a //
 hard question is: //
 
-I have completed 2 easy quetsion, 1 medium question, and 0 hard question. 
+I have completed 2 easy quetsion, 2 medium question, and 0 hard question. 
 
