@@ -1,5 +1,5 @@
 # Leetcode-Master-Book
-A review book for all the leetcode questions I have attempted. 
+A review book for all the leetcode questions I have attempted. All codes are stored in master branch. 
 
 This repo acts as my records for the leetcode journey that I am embarking. I have categorized the problems I attempted; each file under will have copied the instructions of the question and followed by a nicely commented solution code. 
 
@@ -27,5 +27,5 @@ easy question is: 18 mins //
 medium question is: n/a //
 hard question is: //
 
-I have completed 2 easy quetsion, 0 medium question, and 0 hard question. 
+I have completed 2 easy quetsion, 1 medium question, and 0 hard question. 
 
