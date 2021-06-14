@@ -23,10 +23,5 @@ I have a study plan for the summer as following:
 Out of all the topics listed above, I am least familiar wiht Garph, Trees, Sliding window, and Dynamic Programming. I will continue my study journey with the aid of 
 "Cracking the Coding Interview".
 
-As day 1: my average time for solving a //
-easy question is: 18 mins //
-medium question is: n/a //
-hard question is: //
-
-I have completed 2 easy quetsion, 2 medium question, and 0 hard question. 
+I have completed 3 easy quetsion, 2 medium question, and 0 hard question. 
 
