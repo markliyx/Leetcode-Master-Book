@@ -18,6 +18,7 @@ I have a study plan for the summer as following:
 9. Recursion
 10. Sort
 11. Greedy + Backtracking
+12. Math
 
 Out of all the topics listed above, I am least familiar wiht Garph, Trees, Sliding window, and Dynamic Programming. I will continue my study journey with the aid of 
 "Cracking the Coding Interview".
