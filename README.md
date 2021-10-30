@@ -23,5 +23,5 @@ I have a study plan for the summer as following:
 Out of all the topics listed above, I am least familiar wiht Garph, Trees, Sliding window, and Dynamic Programming. I will continue my study journey with the aid of 
 "Cracking the Coding Interview".
 
-I have completed 41 Questions. 
+I have completed roughly 80 Questions. (I lost track)
 
